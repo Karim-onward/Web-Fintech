@@ -6,17 +6,12 @@
   - [🧰 Built With ](#-built-with-)
     - [⚡ Tech Stack ](#-tech-stack-)
     - [🔍 Key Features ](#-key-features-)
-  - [🌐 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [📋 Prerequisites](#-prerequisites)
     - [📂 Setup](#-setup)
     - [📥 Install](#-install)
     - [⚙️ Usage ](#️-usage-)
-  - [👥 Author ](#-author-)
   - [🔮 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
@@ -50,13 +45,6 @@ The *Web Fintech* is a comprehensive web application designed to streamline and 
 - ***Dropdown Filters:** Access filtered data from three available dropdowns.*
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🌐 Live Demo <a name="live-demo"></a>
-
-- [Have a look](https://web-fintech.netlify.app/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 
@@ -98,18 +86,6 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- AUTHORS -->
-## 👥 Author <a name="authors"></a>
- 
-👤 **Kanza Tahreem**
-- GitHub: [@KanzaTahreem](https://github.com/KanzaTahreem)
-- Twitter: [@kanza_tahreem](https://twitter.com/kanza_tahreem)
-- LinkedIn: [kanza-tahreem](https://www.linkedin.com/in/kanza-tahreem/)
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔮 Future Features <a name="future-features"></a>
@@ -119,31 +95,7 @@ To run the project, execute the following command:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](https://github.com/KanzaTahreem/Web-Fintech/issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
-
-## ⭐️ Show your support <a name="support"></a>
-
-If you like this project, please give it a star ✨
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to express my gratitude to all those who have supported me.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
